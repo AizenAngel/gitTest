@@ -1,2 +1,3 @@
 Hi Git. I am posting on you from some tutorial i found on you tube!
+First line was posted from terminal, and this new one is posted from GitHub directly
 
